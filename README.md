@@ -1,6 +1,11 @@
 ## Olá!👋
 
-Sou Marieli Góis, tenho 21 anos de idade e estoue specializando-me em IA, análise de dados e cybersegurança.
+## Quem sou eu?
+Sou Marieli Góis Chagas Torres, tenho 21 anos de idade e estou procurando por novas oportunidades do mercado de trabalho e especializando-me em IA, análise de dados e cibersegurança através do bootcamp da DIO em parceria com o banco Bradesco.
 
-No momento, não possuo experiência na área mas estou aprimorando todos os dias estas competências.
-Atualmente estou participando do bootcamp da DIO em parceria com o Bradesco e acumulando conhecimentos importantes para crescimento profissinal.
+## Caminho a seguir:
+Estou empenhada em conhecer mais sobre análise de dados e construir carreira com foco nas habilidades com dados, IA e Power BI.
+Em breve, terei conhecimento e capacitação para tratar dados com Phyton, SQL e dashboards com o Power BI. 
+
+## Projetos em andamento:
+Atualmente, estou atuando em um desafio de projeto da plataforma DIO, chamado "Treinando uma IA de aprendizagem: Explore o poder do NotebookLM". Você pode conferir no link (inserir o link se possível depois)
