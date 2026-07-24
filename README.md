@@ -21,7 +21,7 @@ Aqui estão as tecnologias que estou dominando para o tratamento, análise e vis
 ## 🚀 Projetos em Destaque
 Atualmente, estou desenvolvendo e documentando os seguintes projetos:
 
-* **[Treinando uma IA de aprendizagem: Explore o poder do NotebookLM]
+* Treinando uma IA de aprendizagem: Explore o poder do NotebookLM
   * *Descrição:* Desafio de projeto prático realizado na plataforma DIO para explorar os recursos e aplicações do NotebookLM.
   * *Tecnologias:* Inteligência Artificial, Generative AI.
 
