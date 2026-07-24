@@ -1,11 +1,31 @@
-## Olá!👋
+# Olá, eu sou a Marieli Góis! 👋
 
-## Quem sou eu?
-Sou Marieli Góis Chagas Torres, tenho 21 anos de idade e estou procurando por novas oportunidades do mercado de trabalho e especializando-me em IA, análise de dados e cibersegurança através do bootcamp da DIO em parceria com o banco Bradesco.
+Seja bem-vindo(a) ao meu perfil do GitHub. Atualmente, estou em transição e especialização para a área de dados e inteligência artificial.
 
-## Caminho a seguir:
-Estou empenhada em conhecer mais sobre análise de dados e construir carreira com foco nas habilidades com dados, IA e Power BI.
-Em breve, terei conhecimento e capacitação para tratar dados com Phyton, SQL e dashboards com o Power BI. 
+## 📌 Sobre Mim
+- 🖥️ **Foco Atual:** Especializando-me em IA, Análise de Dados e Cibersegurança.
+- 🎓 **Formação:** Aluna do bootcamp da **DIO** em parceria com o **Banco Bradesco**.
+- 🎯 **Objetivo Profissional:** Construir uma carreira sólida focada em inteligência de dados, IA e inteligência de negócios (BI).
 
-## Projetos em andamento:
-Atualmente, estou atuando em um desafio de projeto da plataforma DIO, chamado "Treinando uma IA de aprendizagem: Explore o poder do NotebookLM". Você pode conferir no link (inserir o link se possível depois)
+---
+
+## 🛠️ Tecnologias e Ferramentas (Em Aprendizado/Capacitação)
+Aqui estão as tecnologias que estou dominando para o tratamento, análise e visualização de dados:
+
+- **Linguagens e Banco de Dados:** Python | SQL
+- **Visualização de Dados:** Power BI (Criação de Dashboards)
+- **Inteligência Artificial:** Engenharia de Prompt | Ferramentas de IA
+
+---
+
+## 🚀 Projetos em Destaque
+Atualmente, estou desenvolvendo e documentando os seguintes projetos:
+
+* **[Treinando uma IA de aprendizagem: Explore o poder do NotebookLM]
+  * *Descrição:* Desafio de projeto prático realizado na plataforma DIO para explorar os recursos e aplicações do NotebookLM.
+  * *Tecnologias:* Inteligência Artificial, Generative AI.
+
+---
+
+## 📬 Vamos nos conectar?
+- **LinkedIn:** www.linkedin.com/in/marieli-góis-chagas-torres-33a9193a6
