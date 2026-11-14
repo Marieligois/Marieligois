@@ -19,4 +19,4 @@ Aqui estão as tecnologias que estou dominando para o tratamento, análise e vis
 ---
 
 ## 📬 Vamos nos conectar?
-- **LinkedIn:** www.linkedin.com/in/marieli-góis-chagas-torres-33a9193a6
+- **LinkedIn:** www.linkedin.com/in/marieligoisctorres
